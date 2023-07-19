@@ -17,5 +17,12 @@ stop the test and consult a physician.
   - #### Line Edit
     ![Window 2_1](win2_3.jpg)
 ## Screen 3
-  ![Window 3](win3.jpg)
+  - #### Screen
+      ![Window 3](win3.jpg)
+  - #### Ruffier İndex
+    ```math
+    Ruffier İndex = \frac{4(P1+P2+P3)-200}{10}
+    ```
+    P1, P2, P3 are the results of pulse measurements.
+  
 
