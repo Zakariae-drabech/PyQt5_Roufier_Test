@@ -8,10 +8,3 @@ and then for the last 15 seconds of the first minute of the recovery period.
 Important! If you feel unwell during the test (dizziness, tinnitus, shortness of breath, etc.), 
 stop the test and consult a physician.
 
-![Window 1](win1.jpg)
-
-![Window 2](win2.jpg)
-
-![Window 2_1](win2_1.jpg)
-
-![Window 3](win3.jpg)
