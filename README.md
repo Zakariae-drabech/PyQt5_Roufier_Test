@@ -7,12 +7,13 @@ When the exercise ends, the subject lies down and their pulse is measured again 
 and then for the last 15 seconds of the first minute of the recovery period.
 Important! If you feel unwell during the test (dizziness, tinnitus, shortness of breath, etc.), 
 stop the test and consult a physician.
-
+# * Screen 1
 ![Window 1](win1.jpg)
-
-![Window 2](win2.jpg)
-
-![Window 2_1](win2_2.jpg)
-
-![Window 3](win3.jpg)
+# * Screen 2
+  * Alignment
+    ![Window 2](win2.jpg)
+  * Widget
+    ![Window 2_1](win2_2.jpg)
+# * Screen 3
+  ![Window 3](win3.jpg)
 
