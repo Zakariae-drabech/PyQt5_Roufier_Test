@@ -13,16 +13,17 @@ stop the test and consult a physician.
   - #### Alignment
     ![Window 2](win2.jpg)
   - #### Label and Button
-    ![Window 2_1](win2_2.jpg)
+    ![Window 2_2](win2_2.jpg)
   - #### Line Edit
-    ![Window 2_1](win2_3.jpg)
+    ![Window 2_3](win2_3.jpg)
 ## Screen 3
   - #### Screen
       ![Window 3](win3.jpg)
   - #### Ruffier İndex
     ```math
-    Ruffier İndex = \frac{4(P1+P2+P3)-200}{10}
+    index = \frac{4(P1+P2+P3)-200}{10}
     ```
     P1, P2, P3 are the results of pulse measurements.
-  
+  - #### The evaluation is correlated with age
+      ![index_age](index_age.jpg)
 
