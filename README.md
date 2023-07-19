@@ -1,4 +1,4 @@
-# Rouffier_Test
+# Rouffier Test
 This application allows you to use the Rufier test to make an initial diagnosis of your health
 The Rufier test is a set of physical exercises designed to assess your cardiac performance during physical exertion.
 The subject lies in the supine position for 5 minutes and has their pulse rate measured for 15 seconds;
