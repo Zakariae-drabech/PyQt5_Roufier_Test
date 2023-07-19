@@ -10,21 +10,21 @@ stop the test and consult a physician.
 ## Screen 1
 ![Window 1](images/win1.jpg)
 ## Screen 2
-  - #### Alignment
+  - ### Alignment
     ![Window 2](images/win2.jpg)
-  - #### Label and Button
+  - ### Label and Button
     ![Window 2_2](images/win2_2.jpg)
-  - #### Line Edit
+  - ### Line Edit
     ![Window 2_3](images/win2_3.jpg)
 ## Screen 3
-  - #### Screen
+  - ### Screen
       ![Window 3](images/win3.jpg)
-  - #### Ruffier İndex
+  - ### Ruffier İndex
     ```math
     index = \frac{4(P1+P2+P3)-200}{10}
     ```
     P1, P2, and P3 are the results of pulse measurements.
-  - #### Rufier Index Table
+  - ### Rufier Index Table
       The evaluation is correlated with age
       ![index_age](images/index_age.jpg)
 
