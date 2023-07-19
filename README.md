@@ -24,7 +24,7 @@ stop the test and consult a physician.
     index = \frac{4(P1+P2+P3)-200}{10}
     ```
     P1, P2, and P3 are the results of pulse measurements.
-  - ### Rufier Index Table
+  - ### Ruffier Index Table
       The evaluation is correlated with age
       ![index_age](images/index_age.jpg)
 
