@@ -10,11 +10,11 @@ stop the test and consult a physician.
 ## Screen 1
 ![Window 1](win1.jpg)
 ## Screen 2
-  2.1 Alignment
+  - #### Alignment
     ![Window 2](win2.jpg)
-  2.2 Label and Button
+  - #### Label and Button
     ![Window 2_1](win2_2.jpg)
-  2.3 Line Edit
+  - #### Line Edit
     ![Window 2_1](win2_3.jpg)
 ## Screen 3
   ![Window 3](win3.jpg)
