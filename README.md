@@ -7,16 +7,17 @@ When the exercise ends, the subject lies down and their pulse is measured again 
 and then for the last 15 seconds of the first minute of the recovery period.
 Important! If you feel unwell during the test (dizziness, tinnitus, shortness of breath, etc.), 
 stop the test and consult a physician.
-## Screen 1
+# GUI with PyQt5
+- ## Screen 1
 ![Window 1](images/win1.jpg)
-## Screen 2
+- ## Screen 2
   - ### Alignment
     ![Window 2](images/win2.jpg)
   - ### Label and Button
     ![Window 2_2](images/win2_2.jpg)
   - ### Line Edit
     ![Window 2_3](images/win2_3.jpg)
-## Screen 3
+- ## Screen 3
   - ### Screen
       ![Window 3](images/win3.jpg)
   - ### Ruffier İndex
