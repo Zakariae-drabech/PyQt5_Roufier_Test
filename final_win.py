@@ -5,5 +5,17 @@ from PyQt5.QtWidgets import (
        QHBoxLayout, QVBoxLayout, QGridLayout,
        QGroupBox, QRadioButton,
        QPushButton, QLabel, QListWidget, QLineEdit)
+from instr import *
 
+
+class FinalWin(QWidget):
+   def __init__(self):
+       ''' the window in which the survey is being conducted '''
+       super().__init__()
+       # creating and configuring graphic elements:
+       self.initUI()
+       # sets what the window will look like (label, size, location)
+       self.set_appear()
+       # start:
+       self.show()
 
