@@ -10,4 +10,5 @@ stop the test and consult a physician.
 
 ![Window 1](win1.jpg)
 ![Window 2](win2.jpg)
+![Window 2_1](win2_1.jpg)
 ![Window 3](win3.jpg)
