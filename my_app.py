@@ -22,8 +22,14 @@ class MainWin(QWidget):
 
     def initUI(self):
         self.hello_text = QLabel(txt_hello)
+        self.hello_text.setStyleSheet("font-size: 24px; font-weight: bold; color: #444;")
+
         self.instruction = QLabel(txt_instruction)
-        self.button = QPushButton(txt_next)        
+        self.instruction.setStyleSheet("font-size: 18px; color: #666;")
+
+        self.button = QPushButton(txt_next)
+        self.button.setStyleSheet("background-color: #3498db; color: white; font-size: 18px;")
+         
         self.layout = QVBoxLayout()
         self.layout.addWidget(self.hello_text, alignment=Qt.AlignLeft)
         self.layout.addWidget(self.instruction, alignment=Qt.AlignLeft)
