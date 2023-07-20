@@ -50,6 +50,7 @@ class FinalWin(QWidget):
         self.move(win_x, win_y)
 
     def results(self):
+        self.index= "TO DO"
         return "TO DO"
 
 
