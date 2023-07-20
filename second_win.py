@@ -53,8 +53,16 @@ class TestWin(QWidget):
         self.text_test2 = QLabel(txt_test2)
         self.text_test3 = QLabel(txt_test3)
         self.text_timer = QLabel(txt_timer)
+
+        self.text_name.setStyleSheet("font-size: 16px; color: #444;")
+        self.text_age.setStyleSheet("font-size: 16px; color: #444;")
+        self.text_test1.setStyleSheet("font-size: 16px; color: #444;")
+        self.text_test2.setStyleSheet("font-size: 16px; color: #444;")
+        self.text_test3.setStyleSheet("font-size: 16px; color: #444;")
+        self.text_timer.setStyleSheet("font-size: 36px; font-weight: bold; color: #444;")
+
         self.text_timer.setFont(QFont("Times", 36, QFont.Bold))
-        
+
         self.line_name = QLineEdit(txt_hintname)
         self.line_age = QLineEdit(txt_hintage)
         self.line_test1 = QLineEdit(txt_hinttest1)
