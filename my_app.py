@@ -28,7 +28,28 @@ class MainWin(QWidget):
         self.instruction.setStyleSheet("font-size: 18px; color: #666;")
 
         self.button = QPushButton(txt_next)
-        self.button.setStyleSheet("background-color: #3498db; color: white; font-size: 18px;")
+        '''
+        self.button.setStyleSheet("""background-color: #3498db; 
+                                    color: white; 
+                                    font-size: 30px;
+                                    border-radius:20px; 
+                                    padding: 15px 50px;""")
+        '''
+        self.button.setStyleSheet("""
+                    QPushButton {   background-color: #3498db; 
+                                    color: white; 
+                                    font-size: 30px;
+                                    border-radius:20px; 
+                                    padding: 15px 50px;
+                                }
+                    QPushButton:hover { color: blue;
+                                        background-color: gray;}
+                                        
+                    QPushButton:pressed {  
+                                    color: black;
+                                    background-color : red;  
+                                            }
+                    """)                             
          
         self.layout = QVBoxLayout()
         self.layout.addWidget(self.hello_text, alignment=Qt.AlignLeft)
