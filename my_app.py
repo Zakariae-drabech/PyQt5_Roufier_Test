@@ -4,6 +4,7 @@ from PyQt5.QtWidgets import (
     QGroupBox, QRadioButton, QPushButton, QLabel,
     QListWidget, QLineEdit
 )
+
 from instr import *
 from second_win import *
 
@@ -22,10 +23,11 @@ class MainWin(QWidget):
 
     def initUI(self):
         self.hello_text = QLabel(txt_hello)
-        self.hello_text.setStyleSheet("font-size: 24px; font-weight: bold; color: #444;")
+        self.hello_text.setStyleSheet("font-size: 28px; font-weight: bold; color: #444;")
 
         self.instruction = QLabel(txt_instruction)
-        self.instruction.setStyleSheet("font-size: 18px; color: #666;")
+        self.instruction.setStyleSheet("""font-size: 20px; 
+                                            color: #666;""")
 
         self.button = QPushButton(txt_next)
         '''
@@ -63,7 +65,6 @@ class MainWin(QWidget):
 
     def connects(self):
         self.button.clicked.connect(self.next_click)
-
 
 app = QApplication([])
 mw = MainWin()
