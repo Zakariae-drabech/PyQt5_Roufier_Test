@@ -43,6 +43,21 @@ class TestWin(QWidget):
     def initUI(self):
         ''' creates graphic elements '''
         self.btn_next = QPushButton(txt_sendresults)
+        self.btn_next.setStyleSheet("""
+                    QPushButton {   background-color: #3498db; 
+                                    color: white; 
+                                    font-size: 30px;
+                                    border-radius:20px; 
+                                    padding: 15px 50px;
+                                }
+                    QPushButton:hover { color: blue;
+                                        background-color: gray;}
+                                        
+                    QPushButton:pressed {  
+                                    color: black;
+                                    background-color : red;  
+                                            }
+                    """)    
         self.btn_test1 = QPushButton(txt_starttest1)
         self.btn_test2 = QPushButton(txt_starttest2)
         self.btn_test3 = QPushButton(txt_starttest3)
